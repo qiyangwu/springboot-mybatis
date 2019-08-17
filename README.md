@@ -1,2 +1,2 @@
 # springboot-mybatis
-springboot mybatis 去xml配置整合
+springboot mybatis mybatis-plus去xml配置整合
